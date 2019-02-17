@@ -1,6 +1,6 @@
 # Ruby初級者向けレッスン 69回
 ## ブロック
-[発表資料](https://github.com/higaki/learn_ruby_kansai_84/blob/master/print.pdf)
+[発表資料](https://github.com/higaki/learn_ruby_kansai_85/blob/master/print.pdf)
 
 ### 演習問題1
 0 から 9 までの数値をもつ配列 a がある。
